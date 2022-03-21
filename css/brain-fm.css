@@ -1,0 +1,41 @@
+body {
+	margin: 0px;
+	font-family: Arial;
+	font-stretch: expanded;
+}
+
+.section-1 {
+	background-color: #4e03ff;
+	display: flex;
+	color: white;
+	flex-direction: row;
+	align-items: center;
+	font-size: 16px;
+
+
+}
+input[type='button'] {	
+	font-weight: bold;
+	border: 0px;
+	border-radius: 25px;
+	background-color: #FF8C19;
+	color: white;
+
+}
+.headline-1 {
+	font-size: 25px;
+}
+.headline-2 {
+	font-size: 40px;
+	font-weight: bold;
+}
+.headline-3 {
+	font-size: 20px;
+	font-weight: bold;
+}
+a:visited {
+	color: white;
+}
+a:hover {
+	color: #888888;
+}
